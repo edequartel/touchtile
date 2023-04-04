@@ -1,6 +1,5 @@
-# TouchStones
 
-BrailleMath is een uitbreiding op numicon voor kinderen in groep 3 en 4 met een visuele beperking.
+Touchstone is een uitbreiding op numicon voor kinderen in groep 3 en 4 met een visuele beperking.
 
 [TouchStones design](designsvg\braillecon.pdf)
 
