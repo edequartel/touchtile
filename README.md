@@ -1,9 +1,9 @@
 
-Touchstone is een uitbreiding op numicon voor kinderen in groep 3 en 4 met een visuele beperking.
+TouchTile is een uitbreiding op numicon voor kinderen in groep 3 en 4 met een visuele beperking.
 
-[TouchStones design](designsvg\braillecon.pdf)
+[TouchTile design](designsvg\braillecon.pdf)
 
-[TouchStones design](designsvg\braillecon.svg)
+[TouchTile design](designsvg\braillecon.svg)
 
 ## Omschrijving
 Touchstone is een uitbreiding op numicon voor kinderen die kunnen zien en kinderen die zijn aangewezen op tast. Met de stenen kan een kind in groep 3 en 4 de basis vaardigheden oefenen en leren van rekenen gericht op optellen, aftrekken, vermenigvuldigen en delen.
