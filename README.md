@@ -5,6 +5,8 @@ TouchTile is een uitbreiding op numicon voor kinderen in groep 3 en 4 met een vi
 
 [TouchTile voorbeelden](worksheets\touchtileworksheets.pdf)
 
+[opzet](opzet\opzet.md)
+
 ## Omschrijving
 Touchstone is een uitbreiding op numicon voor kinderen die kunnen zien en kinderen die zijn aangewezen op tast. Met de stenen kan een kind in groep 3 en 4 de basis vaardigheden oefenen en leren van rekenen gericht op optellen, aftrekken, vermenigvuldigen en delen.
 Bij touchstone wordt een set werkbladen ontwikkeld die gedownload kunnen worden door de leraar. Bij de werkbladen komt een uitbreide handleiding. Omdat touchstone een uitbreiding is op numicon kunnen deze er naast en erbij gebruikt worden. We maken daarom gebruik van het materiaal dat door Numicon is ontwikkeld en geschikt is voor kinderen die kunnen zien. Het is een volledig inclusieve methode welke ook gebruik maakt van de LEGObraillebricks. In de methode wordt het concept leren door spel ingezet.
