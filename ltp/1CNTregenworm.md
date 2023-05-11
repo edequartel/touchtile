@@ -8,7 +8,7 @@
 3. plaats de tegels op het bord
 4. zet ze achter elkaar
 5. maak een lange worm
-6. hoelang is jouw worm
+6. hoe lang is jouw worm?
 
 ## Hoe voor te bereiden
 1. numicon bord
