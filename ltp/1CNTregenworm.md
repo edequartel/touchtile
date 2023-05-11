@@ -19,7 +19,7 @@
 * leg het bord stevig neer
 * zorg dat de leerling alle tegels heeft
 * start met een korte worm, dus minder lange tegels
-* laat de wormq groeien door dobbelstenen te gebruiken 
+* laat de worm groeien door dobbelstenen te gebruiken 
 
 ## Mogelijke variaties
 * laat de leerling een octopus maken, 
