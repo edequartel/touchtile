@@ -18,5 +18,8 @@
 ## Dobbelstenen
 ![dobbelstenen](assets/dobbelstenen.jpeg)
 
+## LEGObraillebricks
+![LEGObraillebricks](assets/LEGObraillebricks.jpeg)
+
 ## TekenMee / Tekenbord
 ![tekenbord](assets/tekenbord.jpeg)

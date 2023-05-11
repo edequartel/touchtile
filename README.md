@@ -14,6 +14,5 @@ TouchTile is een uitbreiding op Numicon voor kinderen die kunnen zien en kindere
 
 Bij TouchTile wordt een set werkbladen ontwikkeld die gedownload kunnen worden door de leraar. Bij de werkbladen is een uitbreide handleiding. Omdat TouchTile een uitbreiding is op numicon kunnen deze er naast en erbij gebruikt worden. We maken daarom gebruik van het materiaal dat door Numicon is ontwikkeld en geschikt is voor kinderen die kunnen zien. Het is een volledig inclusieve methode welke ook gebruik maakt van de LEGObraillebricks. In de methode wordt het concept leren door spel ingezet.
 
-/
-
-TouchTile: Dé nieuwe manier van rekenen voor kinderen met én zonder visuele beperking! Speciaal ontworpen als uitbreiding op de bekende Numicon-methode, kunnen kinderen in groep 3 en 4 nu de basisvaardigheden van optellen, aftrekken, vermenigvuldigen en delen op een unieke manier oefenen en leren, zowel visueel als tactiel. Met de bijbehorende werkbladen en handleiding, kan de leraar direct aan de slag. TouchTile is volledig inclusief, mede dankzij het gebruik van LEGO braillebricks, en laat kinderen spelenderwijs leren. Haal TouchTile in huis en geef elk kind de kans om te groeien in rekenvaardigheden!
+# Leren door spel
+Wil je meer weten over leren door spel ga dan naar de website van LEGO. www.legobraillebricks.com of www.eduvip.nl/legobraillebricks of download  LtP_What_Is_It_-_Parents_PDF van https://www.lego.com/cdn/cs/sustainability/assets/blt7aaec03836d94291/LtP_What_Is_It_-_Parents_PDF.pdf
