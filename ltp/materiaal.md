@@ -1,14 +1,22 @@
 # Materiaal
 
 ## Numicon
-![numicon](numicon)
-
+![numicon](assets/numicon.jpeg)
 
 ## TouchTile
-![regenworm](touchtile.jpeg)
+![touchtile](assets/touchtile.jpeg)
 
 ## MakeDo
+![makedo](assets/makedo.jpeg)
+
+## Karton
+![karton](assets/katon.jpeg)
 
 ## Kaarten
+![kaarten](assets/kaarten.jpeg)
 
 ## Dobbelstenen
+![dobbelstenen](assets/dobbelstenen.jpeg)
+
+## TekenMee / Tekenbord
+![tekenbord](assets/tekenbord.jpeg)
