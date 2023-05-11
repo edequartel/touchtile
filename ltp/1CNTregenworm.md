@@ -1,6 +1,6 @@
-# De worm
+# De regenworm
 
-![regenworm](regenworm.jpeg)
+![regenworm](assets\regenworm.jpeg)
 
 ## Laten we gaan spelen
 1. pak een numicon bord
