@@ -2,24 +2,26 @@
 
 ## Numicon
 ![numicon](assets/numicon.jpeg)
+![numicon](assets/numicon-2.jpeg)
 
 ## TouchTile
 ![touchtile](assets/touchtile.jpeg)
+![touchtile](assets/touchtile-2.jpeg)
+![touchtile](assets/touchtile-3.jpeg)
 
 ## MakeDo
 ![makedo](assets/makedo.jpeg)
 
 ## Karton
-![karton](assets/katon.jpeg)
+![karton](assets/karton.jpeg)
 
 ## Kaarten
-![kaarten](assets/kaarten.jpeg)
 
 ## Dobbelstenen
-![dobbelstenen](assets/dobbelstenen.jpeg)
+![dobbelstenen](assets/dobbelsteen.jpeg)
 
 ## LEGObraillebricks
-![LEGObraillebricks](assets/LEGObraillebricks.jpeg)
+![LEGObraillebricks](assets/legobraillebricks.jpeg)
 
-## TekenMee / Tekenbord
+## Tekenbord
 ![tekenbord](assets/tekenbord.jpeg)
