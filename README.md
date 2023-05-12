@@ -1,5 +1,6 @@
 
 TouchTile is een uitbreiding op numicon voor kinderen in groep 3 en 4 met een visuele beperking.
+In deze set komen ltp werkvormen welke geen papier en pen...
 
 * [Materiaal](ltp/materiaal.md) 
 
