@@ -9,8 +9,9 @@ Omdat TouchTile een uitbreiding is op Numicon kunnen deze er naast en erbij gebr
 ## Leren door spel
 Wil je meer weten over leren door spel ga dan naar de website van LEGO.   
 
-[LEGO engels](www.legobraillebricks.com) of [LEGO nederlands](www.eduvip.nl/legobraillebricks) of
-download [learning through play, pdf document](LtP_What_Is_It_-_Parents_PDF van https://www.lego.com/cdn/cs/sustainability/assets/blt7aaec03836d94291/LtP_What_Is_It_-_Parents_PDF.pdf)
+[LEGO engels](https://www.legobraillebricks.com) of 
+[LEGO nederlands](https://www.eduvip.nl/legobraillebricks) of
+download [learning through play, pdf document](https://www.lego.com/cdn/cs/sustainability/assets/blt7aaec03836d94291/LtP_What_Is_It_-_Parents_PDF.pdf)
 
 ## Inhoud
 
@@ -20,5 +21,8 @@ download [learning through play, pdf document](LtP_What_Is_It_-_Parents_PDF van 
 * [Aftrekken](ltp/aftrekken.md)
 * [Vermenigvuldigen](ltp/vermenigvuldigen.md)
 * [Delen](ltp\delen.md)
+
+--
+* [Bestelgegevens](ltp/bestelgegevens.md)
 
 
