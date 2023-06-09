@@ -13,9 +13,10 @@ Wil je meer weten over leren door spel ga dan naar de website van LEGO.
 [LEGO nederlands](https://www.eduvip.nl/legobraillebricks) of
 download [learning through play, pdf document](https://www.lego.com/cdn/cs/sustainability/assets/blt7aaec03836d94291/LtP_What_Is_It_-_Parents_PDF.pdf)
 
-## Inhoud
+[Materiaal](ltp/materiaal.md) 
 
-* [Materiaal](ltp/materiaal.md) 
+## Werkbladen
+
 * [Betekenis](ltp/betekenis.md)
 * [Optellen](ltp/optellen.md)
 * [Aftrekken](ltp/aftrekken.md)
