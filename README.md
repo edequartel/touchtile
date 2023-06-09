@@ -22,6 +22,8 @@ download [learning through play, pdf document](https://www.lego.com/cdn/cs/susta
 * [Vermenigvuldigen](ltp/vermenigvuldigen.md)
 * [Delen](ltp\delen.md)
 
+* [sjabloon](ltp/template.md)
+
 ## Bestellen
 
 * [Bestelgegevens](ltp/bestelgegevens.md)
