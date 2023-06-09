@@ -22,8 +22,7 @@ download [learning through play, pdf document](https://www.lego.com/cdn/cs/susta
 * [Aftrekken](ltp/aftrekken.md)
 * [Vermenigvuldigen](ltp/vermenigvuldigen.md)
 * [Delen](ltp\delen.md)
-
-* [sjabloon](ltp/template.md)
+* [-sjabloon-](ltp/template.md)
 
 ## Bestellen
 
